@@ -9947,7 +9947,7 @@ button.list-group-item-gray.active {
 }
 
 .text-lowercase {
-  text-transform: lowercase !important;
+  text-transform: uppercase !important;
 }
 
 .text-uppercase {
